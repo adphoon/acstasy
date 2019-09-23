@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>gallery</title>
+   	<link>.</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>WPC071</title>
+            <link>slides/WPC071.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WPC071.jpg" width="100" height="100"/>
+            <media:content url="slides/WPC071.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/WPC071.jpg</guid>
+        </item>
+        
+        <item>
+            <title>2515</title>
+            <link>slides/2515.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2515.jpg" width="100" height="100"/>
+            <media:content url="slides/2515.jpg" width="520" height="390"/>
+            
+            
+            <guid isPermaLink="false">slides/2515.jpg</guid>
+        </item>
+        
+        <item>
+            <title>2786</title>
+            <link>slides/2786.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2786.jpg" width="100" height="100"/>
+            <media:content url="slides/2786.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/2786.jpg</guid>
+        </item>
+        
+        <item>
+            <title>16959</title>
+            <link>slides/16959.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16959.jpg" width="100" height="100"/>
+            <media:content url="slides/16959.jpg" width="520" height="390"/>
+            
+            
+            <guid isPermaLink="false">slides/16959.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Alive</title>
+            <link>slides/Alive.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Alive.jpg" width="100" height="100"/>
+            <media:content url="slides/Alive.jpg" width="520" height="390"/>
+            
+            
+            <guid isPermaLink="false">slides/Alive.jpg</guid>
+        </item>
+        
+        <item>
+            <title>American games2</title>
+            <link>slides/American games2.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/American games2.jpg" width="100" height="100"/>
+            <media:content url="slides/American games2.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/American games2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>AMetallicaFloorView</title>
+            <link>slides/AMetallicaFloorView.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/AMetallicaFloorView.jpg" width="100" height="100"/>
+            <media:content url="slides/AMetallicaFloorView.jpg" width="500" height="334"/>
+            
+            
+            <guid isPermaLink="false">slides/AMetallicaFloorView.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Busan Rock Festival</title>
+            <link>slides/Busan Rock Festival.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Busan Rock Festival.jpg" width="100" height="100"/>
+            <media:content url="slides/Busan Rock Festival.jpg" width="320" height="214"/>
+            
+            <jalbum:exif originalDate="7/8/2005, 20:31 น." cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/Busan Rock Festival.jpg</guid>
+        </item>
+        
+        <item>
+            <title>CEMX1</title>
+            <link>slides/CEMX1.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CEMX1.jpg" width="100" height="100"/>
+            <media:content url="slides/CEMX1.jpg" width="520" height="292"/>
+            
+            
+            <guid isPermaLink="false">slides/CEMX1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>CMA music Festival1</title>
+            <link>slides/CMA music Festival1.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CMA music Festival1.jpg" width="100" height="100"/>
+            <media:content url="slides/CMA music Festival1.jpg" width="283" height="215"/>
+            
+            
+            <guid isPermaLink="false">slides/CMA music Festival1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>euro Vision2008</title>
+            <link>slides/euro Vision2008.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/euro Vision2008.jpg" width="100" height="100"/>
+            <media:content url="slides/euro Vision2008.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/euro Vision2008.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Euro Vision20061</title>
+            <link>slides/Euro Vision20061.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Euro Vision20061.jpg" width="100" height="100"/>
+            <media:content url="slides/Euro Vision20061.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/Euro Vision20061.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Euro Vision20083</title>
+            <link>slides/Euro Vision20083.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Euro Vision20083.jpg" width="100" height="100"/>
+            <media:content url="slides/Euro Vision20083.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/Euro Vision20083.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ev_cma07_01_l</title>
+            <link>slides/ev_cma07_01_l.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ev_cma07_01_l.jpg" width="100" height="100"/>
+            <media:content url="slides/ev_cma07_01_l.jpg" width="520" height="340"/>
+            
+            
+            <guid isPermaLink="false">slides/ev_cma07_01_l.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ev_cma07_02_l</title>
+            <link>slides/ev_cma07_02_l.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ev_cma07_02_l.jpg" width="100" height="100"/>
+            <media:content url="slides/ev_cma07_02_l.jpg" width="520" height="361"/>
+            
+            
+            <guid isPermaLink="false">slides/ev_cma07_02_l.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ev_vasco-rossi-2008_0_L</title>
+            <link>slides/ev_vasco-rossi-2008_0_L.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ev_vasco-rossi-2008_0_L.jpg" width="100" height="100"/>
+            <media:content url="slides/ev_vasco-rossi-2008_0_L.jpg" width="520" height="347"/>
+            
+            
+            <guid isPermaLink="false">slides/ev_vasco-rossi-2008_0_L.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Fuji Rock1</title>
+            <link>slides/Fuji Rock1.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Fuji Rock1.jpg" width="100" height="100"/>
+            <media:content url="slides/Fuji Rock1.jpg" width="520" height="345"/>
+            
+            
+            <guid isPermaLink="false">slides/Fuji Rock1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>hurricane1</title>
+            <link>slides/hurricane1.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/hurricane1.jpg" width="100" height="100"/>
+            <media:content url="slides/hurricane1.jpg" width="362" height="272"/>
+            
+            
+            <guid isPermaLink="false">slides/hurricane1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>mtv083</title>
+            <link>slides/mtv083.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mtv083.jpg" width="100" height="100"/>
+            <media:content url="slides/mtv083.jpg" width="520" height="346"/>
+            
+            <jalbum:exif originalDate="26/4/2008, 21:25 น." cameraMake="Canon" cameraModel="Canon EOS 30D"/>
+            <guid isPermaLink="false">slides/mtv083.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Nova Rock Festival</title>
+            <link>slides/Nova Rock Festival.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Nova Rock Festival.jpg" width="100" height="100"/>
+            <media:content url="slides/Nova Rock Festival.jpg" width="520" height="346"/>
+            
+            <jalbum:exif originalDate="15/6/2007, 19:12 น." cameraMake="Canon" cameraModel="Canon EOS 20D"/>
+            <guid isPermaLink="false">slides/Nova Rock Festival.jpg</guid>
+        </item>
+        
+        <item>
+            <title>TMF awards053</title>
+            <link>slides/TMF awards053.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TMF awards053.jpg" width="100" height="100"/>
+            <media:content url="slides/TMF awards053.jpg" width="520" height="346"/>
+            
+            
+            <guid isPermaLink="false">slides/TMF awards053.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Tokyo girls collection</title>
+            <link>slides/Tokyo girls collection.jpg</link>
+            <pubDate>Tue, 07 Apr 2009 00:51:32 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tokyo girls collection.jpg" width="100" height="100"/>
+            <media:content url="slides/Tokyo girls collection.jpg" width="520" height="347"/>
+            
+            
+            <guid isPermaLink="false">slides/Tokyo girls collection.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
